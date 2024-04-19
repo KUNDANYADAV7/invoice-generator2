@@ -1,0 +1,9 @@
+Custom CSS .custom-input {
+    border: none;
+    border-bottom: 5px solid #ced4da;
+    /* Add a 1px solid underline */
+    border-radius: 0;
+    /* Optionally remove border-radius */
+    box-shadow: none;
+    /* Optionally remove box-shadow */
+}
